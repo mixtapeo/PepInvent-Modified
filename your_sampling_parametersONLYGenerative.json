@@ -1,0 +1,14 @@
+{
+    "sampling_rate": 0.05,
+    "max_iterations": 500,
+    "temperature": 298,
+    "num:samples": 1,
+    "batch_size": 1,
+    "seed": 42,
+    "algorithm": "monte_carlo",
+    "convergence_threshold": 0.001,
+    "model_type": "mol2mol",
+    "model_path": "./models/generative_model.ckpt",
+    "results_output": "./results/sampling_output.json",
+    "input_sequences_path": "./input_sequences.csv"
+  }

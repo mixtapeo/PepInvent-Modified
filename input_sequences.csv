@@ -1,0 +1,2 @@
+Cyclization,Target_Mol,Source_Mol
+head_to_tail,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)CNC(=O)[C@H](CCCCN)N,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)C?C(=O)[C@H](CCCC?)N

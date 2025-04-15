@@ -1,0 +1,13 @@
+{
+  "model_type": "mol2mol",
+  "model_path": "/Desktop/PepINVENT/examples/models/generative_model.ckpt",
+  "results_output": "/Desktop/PepINVENT/results/output.csv",
+  "input_sequences_path": "/Desktop/PepINVENT/data/input.csv",
+  "batch_size": 1,
+  "num_samples": 1000,
+  "beam_size": 1000,
+  "run_type":"sampling"
+}
+
+
+
